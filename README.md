@@ -1,6 +1,6 @@
 # ansible
 
-#to upload codes from server
+# to upload codes from server
 	vi README.md
 	git diff README.md
 	git status
@@ -8,7 +8,7 @@
 	git commit -m "updated readme file, initial commit"
 	git push origin main
 
-#install ansible in centos
+# install ansible in centos
 	sudo yum install epel-release
 	sudo yum install ansible
 
